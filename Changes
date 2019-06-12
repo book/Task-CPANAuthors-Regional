@@ -2,6 +2,9 @@ Revision history for Task-CPANAuthors-Regional
 
 {{$NEXT}}
 
+1.002 2019-06-13 BOOK
+    - Add Acme::CPANAuthors::Malaysian
+
 1.001 2014-05-15 BOOK
     - require versions of Acme::CPANAuthors::EU and
       Acme::CPANAuthors::European that pass their tests
