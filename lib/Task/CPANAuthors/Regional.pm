@@ -72,6 +72,8 @@ L<Acme::CPANAuthors::Japanese> - We are Japanese CPAN authors
 
 L<Acme::CPANAuthors::Korean> - We are Korean CPAN Authors! (우리는 CPAN Author 다!)
 
+L<Acme::CPANAuthors::Malaysian> - We are Malaysian CPAN authors (Kami para penulis CPAN Malaysia)
+
 L<Acme::CPANAuthors::Norwegian> - We are Norwegian CPAN authors
 
 L<Acme::CPANAuthors::Polish> - Jesteśmy autorami-Polakami modułów na CPAN
@@ -110,7 +112,7 @@ Philippe Bruhat (BooK) <book@cpan.org>
 
 =head1 COPYRIGHT
 
-Copyright 2014 Philippe Bruhat (BooK), All Rights Reserved.
+Copyright 2014-2019 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
