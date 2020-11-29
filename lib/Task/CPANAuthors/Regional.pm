@@ -88,7 +88,7 @@ L<Acme::CPANAuthors::Spanish> - We are the Spanish CPAN Authors
 
 L<Acme::CPANAuthors::Swedish> - Vi är svenska kontribuerare till CPAN
 
-L<Acme::CPANAuthors::Taiwanese>
+L<Acme::CPANAuthors::Taiwanese> - We are Taiwanese CPAN Authors!
 
 L<Acme::CPANAuthors::Turkish> - Türk CPAN Yazarları
 
