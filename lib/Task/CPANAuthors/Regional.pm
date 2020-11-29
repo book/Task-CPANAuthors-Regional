@@ -82,6 +82,8 @@ L<Acme::CPANAuthors::Portuguese> - We are the Portuguese CPAN Authors
 
 L<Acme::CPANAuthors::Russian> - We are Russian CPAN authors
 
+L<Acme::CPANAuthors::Slovak> - We are Slovak CPAN authors
+
 L<Acme::CPANAuthors::Spanish> - We are the Spanish CPAN Authors
 
 L<Acme::CPANAuthors::Swedish> - Vi är svenska kontribuerare till CPAN
