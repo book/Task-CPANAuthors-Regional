@@ -2,6 +2,9 @@ Revision history for Task-CPANAuthors-Regional
 
 {{$NEXT}}
 
+1.003 2020-11-29 BOOK
+    - Add Acme::CPANAuthors::Slovak
+
 1.002 2019-06-13 BOOK
     - Add Acme::CPANAuthors::Malaysian
 
